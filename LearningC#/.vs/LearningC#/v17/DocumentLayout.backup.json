@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\santa\\C-\\LearningC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santa\\Downloads\\program_cd8baec6-3728-453f-a782-355eeb765f69.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9ED7ADF-1A61-49DE-88E5-41A59087A380}|LearningC#\\LearningC#.csproj|c:\\users\\santa\\c-\\learningc#\\learningc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9ED7ADF-1A61-49DE-88E5-41A59087A380}|LearningC#\\LearningC#.csproj|solutionrelative:learningc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "program_cd8baec6-3728-453f-a782-355eeb765f69.cs",
+              "DocumentMoniker": "C:\\Users\\santa\\Downloads\\program_cd8baec6-3728-453f-a782-355eeb765f69.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\program_cd8baec6-3728-453f-a782-355eeb765f69.cs",
+              "ToolTip": "C:\\Users\\santa\\Downloads\\program_cd8baec6-3728-453f-a782-355eeb765f69.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\program_cd8baec6-3728-453f-a782-355eeb765f69.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:37:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\santa\\C-\\LearningC#\\LearningC#\\Program.cs",
               "RelativeDocumentMoniker": "LearningC#\\Program.cs",
-              "ToolTip": "C:\\Users\\santa\\C-\\LearningC#\\LearningC#\\Program.cs*",
-              "RelativeToolTip": "LearningC#\\Program.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwDQAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\santa\\C-\\LearningC#\\LearningC#\\Program.cs",
+              "RelativeToolTip": "LearningC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T15:59:25.395Z",
               "EditorCaption": ""

@@ -12,3 +12,4 @@ C:\Users\santa\C-\LearningC#\LearningC#\obj\Debug\net8.0\refint\LearningC#.dll
 C:\Users\santa\C-\LearningC#\LearningC#\obj\Debug\net8.0\LearningC#.pdb
 C:\Users\santa\C-\LearningC#\LearningC#\obj\Debug\net8.0\LearningC#.genruntimeconfig.cache
 C:\Users\santa\C-\LearningC#\LearningC#\obj\Debug\net8.0\ref\LearningC#.dll
+C:\Users\santa\C-\LearningC#\LearningC#\obj\Debug\net8.0\LearningC#.sourcelink.json
